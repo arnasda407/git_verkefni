@@ -1,11 +1,11 @@
-1. Hvað gera eftirfarandi Linux skipanir?
+1. Hvað gerðu eftirfarandi Linux skipanir?
 
-cd "in control of something"
+CD "í stjórn á eitthvað"
 
-cd ~ "leaves control"
+CD ~ "skilur eftirlit"
 
-ls "lists the files of directories"
+Ls "listar skrár framkvæmdarstjóra"
 
-pwd "shows which drive it's located on"
+pwd "sýnir hvaða akstur það er staðsett á"
 
-mkdir "makes a folder"
+mkdir "gerir möppu"
