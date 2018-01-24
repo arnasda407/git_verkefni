@@ -66,3 +66,9 @@ Git útibú eru í raun bendill til skyndimynd af breytingum þínum.
 Þegar þú vilt bæta við nýjum eiginleikum eða laga galla, sama hversu stór eða smá þú ert
 Hakk nýjan útibú til að ná yfir breytingar þínar "
 
+9.spurning
+
+9. Hver fannst GIT?
+
+"Linus Torvalds"
+
