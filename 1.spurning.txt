@@ -51,3 +51,11 @@ endurskoðun stjórna "getu til að breyta tölum eða skjölum osfrv.".
 kannski um þrjú
 
 
+7.spurning
+
+7. Hvað er "Working File"? "" Stöðva svæði "?" og "geymsla" í GIT?
+
+Staging Area er þegar möppan er í gegnum git, "vinnuskilaboð og geymsla eru í grundvallaratriðum það sama og þegar þú ýtir á skráina niður á síðunni."
+
+
+
