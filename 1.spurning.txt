@@ -10,14 +10,14 @@ pwd "sýnir staðsetningu drifsins / möppunnar "gerir möppu"
 
 2. spurning
 
-Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+Hvað gerðu eftirfarandi skipanir og hvers vegna eru þær gagnlegar?
 
-	git clone "Clone a repository into a new directory"
+git klón "Klón geymsla í nýja möppu"
 
-	git log "shows the author and date"
+git log "sýnir höfund og dagsetningu"
 
-	git status "Shows the working tree status"
+Git stöðu "Sýnir vinnandi tré stöðu"
 
-	git diff "Show changes between commits, commit and working tree."
+git diff "Sýna breytingar milli skuldbindingar, skuldbinda og vinna tré."
 
-	git checkout "Switch branches or restore working tree files"
+git stöðva "Skipta útibú eða endurheimta vinnandi tréskrár"
