@@ -1,0 +1,11 @@
+1. Hvað gera eftirfarandi Linux skipanir?
+
+cd "in control of something"
+
+cd ~ "leaves control"
+
+ls "lists the files of directories"
+
+pwd "shows which drive it's located on"
+
+mkdir "makes a folder"
