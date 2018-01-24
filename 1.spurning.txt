@@ -37,3 +37,9 @@ c) git diff commit1 commit2 "skiptir máli milli útibúa sem ég trúi?"
 4. Hvað er útgáfa?
 
 endurskoðun stjórna "getu til að breyta tölum eða skjölum osfrv.".
+
+5.spurning
+
+5. Hver eru helstu kostir þess að nota GIT?
+
+Þú getur gert verk þitt opinbert en einnig sýnt þeim hvað þú vilt að þau sjái?
