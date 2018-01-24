@@ -57,5 +57,12 @@ kannski um þrjú
 
 Staging Area er þegar möppan er í gegnum git, "vinnuskilaboð og geymsla eru í grundvallaratriðum það sama og þegar þú ýtir á skráina niður á síðunni."
 
+8.spurning
 
+8. Hvenær er hægt að nota útibú (útibú)?
+
+"Útibú eru hluti af daglegu þroskaferlinu þínu.
+Git útibú eru í raun bendill til skyndimynd af breytingum þínum.
+Þegar þú vilt bæta við nýjum eiginleikum eða laga galla, sama hversu stór eða smá þú ert
+Hakk nýjan útibú til að ná yfir breytingar þínar "
 
