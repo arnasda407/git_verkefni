@@ -21,3 +21,13 @@ Git stöðu "Sýnir vinnandi tré stöðu"
 git diff "Sýna breytingar milli skuldbindingar, skuldbinda og vinna tré."
 
 git stöðva "Skipta útibú eða endurheimta vinnandi tréskrár"
+
+3.spurning
+
+3. Hver er munurinn á eftirfarandi skipunum:
+
+a) git diff "Vilja sýna þér bið breytingar breytingar un un framlengdur skrár"
+
+b) git diff - staged "git diff - leiksvið mun aðeins sýna breytingar á skrám í" sviðsettu svæði "
+
+c) git diff commit1 commit2 "skiptir máli milli útibúa sem ég trúi?"
