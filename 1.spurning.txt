@@ -1,11 +1,23 @@
 1. Hvað gerðu eftirfarandi Linux skipanir?
 
-CD "í stjórn á eitthvað"
+CD "tekur þig aftur til / heima skrá"
 
-CD ~ "skilur eftirlit"
+CD ~ "tekur þig aftur til / heimasíðuna ef þú ert í fleiri en einum möppu"
 
 Ls "listar skrár framkvæmdarstjóra"
 
-pwd "sýnir hvaða akstur það er staðsett á"
+pwd "sýnir staðsetningu drifsins / möppunnar "gerir möppu"
 
-mkdir "gerir möppu"
+2. spurning
+
+Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+
+	git clone "Clone a repository into a new directory"
+
+	git log "shows the author and date"
+
+	git status "Shows the working tree status"
+
+	git diff "Show changes between commits, commit and working tree."
+
+	git checkout "Switch branches or restore working tree files"
