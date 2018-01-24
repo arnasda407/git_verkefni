@@ -72,3 +72,9 @@ Hakk nýjan útibú til að ná yfir breytingar þínar "
 
 "Linus Torvalds"
 
+10.spurning
+
+10. Hvar er GIT helst notað?
+
+"Það gerir hópum forritara kleift að vinna saman á sömu skjölum
+(oft kóðinn) samtímis og án þess að vinna hver annars vinnu. "
