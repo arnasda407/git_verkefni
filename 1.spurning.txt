@@ -31,3 +31,9 @@ a) git diff "Vilja sýna þér bið breytingar breytingar un un framlengdur skrár"
 b) git diff - staged "git diff - leiksvið mun aðeins sýna breytingar á skrám í" sviðsettu svæði "
 
 c) git diff commit1 commit2 "skiptir máli milli útibúa sem ég trúi?"
+
+4.spurning
+
+4. Hvað er útgáfa?
+
+endurskoðun stjórna "getu til að breyta tölum eða skjölum osfrv.".
